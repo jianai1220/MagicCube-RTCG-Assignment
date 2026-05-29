@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="hachiSou" size="0.058000 0.058000" />
+    <ImageTarget name="usagiHmm" size="0.058000 0.058000" />
+    <ImageTarget name="chiiSigma" size="0.058000 0.059768" />
+    <ImageTarget name="usagiNice" size="0.058000 0.058000" />
+    <ImageTarget name="chiiLaying" size="0.058000 0.058000" />
+    <ImageTarget name="hachiYay" size="0.058000 0.058000" />
+    <ImageTarget name="img_20260407_151857992" size="0.085000 0.128475" />
+  </Tracking>
+</QCARConfig>
